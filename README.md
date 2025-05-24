@@ -1,18 +1,42 @@
-## Getting Started
+## Overview
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+**Project Title**: Java Text Adventure
 
-## Folder Structure
+**Project Description**: A simple text adventure game to demonstrate learning of Java.
 
-The workspace contains two folders by default, where:
+**Project Goals**: To learn the basics of the Java programming language and demonstrate them.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Instructions for Build and Use
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Steps to build and/or run the software:
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+1. Install a Java Development Kit(JDK), I used Oracle's own.
+2. Install Java Extensions for your code editor of choice
 
-## Dependency Management
+Instructions for using the software:
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+1. Run the Main.java file
+2. Interact with the game via the console
+
+## Development Environment 
+
+To recreate the development environment, you need the following software and/or libraries with the specified versions:
+
+* Oracle's JDK
+* VS Code
+* Windows 10
+
+## Useful Websites to Learn More
+
+I found these websites useful in developing this software:
+
+* [Java tutorial for beginners 2025](https://www.youtube.com/watch?v=23HFxAPyJ9U&list=PLZPZq0r_RZOOj_NOZYq_R2PECIMglLemc)
+* [Building a text based adventure game with Java](https://codingzap.com/text-based-adventure-game-java/)
+
+## Future Work
+
+The following items I plan to fix, improve, and/or add to this project in the future:
+
+* [ ] Expand on the map, add more rooms, doors, items, and puzzles.
+* [ ] Provide a proper way to end the game when you win.
+* [ ] Add hazards that can injure the player and put pressure to escape.
